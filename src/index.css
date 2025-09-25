@@ -39,9 +39,8 @@ a {
 }
 
 .logocarrito{
-    .logo {
     padding: 2px;
-    margin: 7px;
+    margin: 60pX;
     background-color: #8a8a8a;
     height: 3rem;
     width: 3rem;
@@ -49,4 +48,9 @@ a {
     border: 1px solid transparent;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
+
+h1{
+    color: #000;
+    margin-top: 300px;
+    text-align: center;
 }
